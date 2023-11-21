@@ -1,43 +1,37 @@
-# 🐰식식프렌즈📆
+# 🐰식식프렌즈🐰
 
-프로젝트 설명
+### | 데일리 뉴스의 주요 키워드를 맞추는 퀴즈 게임 서비스
 
-# 프로젝트 기간
+## 📆 프로젝트 기간
 
 2023.08.28 ~ 2023.10.06 (6주)
 
-# 목차
+## 목차
 
-- [🎯 기획배경](#subject)
-- [⭐️ 주요 기능](#mainContents)
-- [🖥️ 화면](#contents)
-- [🛠️ 기술 스택](#skills)
-- [💾 데이터 파이프라인](#dataPipelines)
-- [⚙ 시스템 아키텍쳐](#systemArchitecture)
-- [🪜 설계](#design)
-- [👥 팀원 소개](#members)
+<!-- - [🎯 기획배경](#subject) -->
 
-# 기획 배경
+[⭐️ 주요 기능](#mainContents)
+[🛠️ 기술 스택](#skills)
+[💾 데이터 파이프라인](#dataPipelines)
+[🗂️ 시스템 아키텍쳐](#systemArchitecture)
+[🪜 설계](#design)
+[👪 팀원 소개](#members)
+
+<!-- # 🎯 기획 배경
 
 <a name="subject"></a>
 
-기획 배경
+기획 배경 -->
 
-# 주요 기능
+## ⭐️ 주요 기능
 
 <a name="mainContents"></a>
 
-주요 기능
+### 1. 메인 화면
 
-# 화면
+![메인](/assets/메인.gif)
 
-<a name="contents"></a>
-
-### 1. 메인 페이지
-
-![메인](/uploads/79fe71eca732b49aa6b99b98eae57cfb/메인.gif)
-
-게임의 특성을 살리기 위해 다양한 애니메이션 효과와 배경음악을 사용하여 밝고 신나는 분위기를 완성했습니다.
+- 다양한 애니메이션 효과와 배경음악을 사용하여 밝고 신나는 분위기를 완성했습니다.
 
 - 애니메이션 효과
 
@@ -45,39 +39,63 @@
 
 - 로그인 및 회원가입 모달 애니메이션 효과
 
-## 2. 워드 클라우드
+### 2. 워드 클라우드
 
-![ezgif.com-video-to-gif](/uploads/aa87487adf689be172d7063f5997e3e0/ezgif.com-video-to-gif.gif)
+![워드클라우드](/assets/워드클라우드.gif)
 
-## 3. 내 프로필
+### 3. 대기실
 
-![ezgif.com-video-to-gif__2_](/uploads/08f039045eac411fdd2bf59872151976/ezgif.com-video-to-gif__2_.gif)
+![대기실](/assets/대기실.gif)
 
-## 4. 게임
+### 4. 게임
 
-![ezgif.com-video-to-gif__1_](/uploads/98fdcf21d91e6e3309a709ac17401880/ezgif.com-video-to-gif__1_.gif)
+![방생성](/assets/게임방생성.gif)
 
-## 5. 대기실
+![문제](/assets/문제풀이.gif)
 
-![ezgif.com-video-to-gif__3_](/uploads/ad441cabaa2703b8c0e6bf0e1b93b25b/ezgif.com-video-to-gif__3_.gif)
+![문제](/assets/문제풀이.gif)
 
-# 기술 스택
+### 5. 랭킹 및 프로필
+
+![랭킹](/assets/랭킹프로필.gif)
+
+![프로필](/assets/프로필.gif)
+
+## 🛠️ 기술 스택
 
 <a name="skills"></a>
 
-## 프론트
+### 공통
+
+<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white">
+
+<img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">
+
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+
+### Front-End
 
 <img title="" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="">
 
----
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 
-## 백
+### Back-End
 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
----
+<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
 
-## 데이터
+<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+
+<img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+
+<img src="https://img.shields.io/badge/json web tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+
+<img title="" src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="">
+
+### Data
 
 <img title="" src="https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="">
 
@@ -89,48 +107,85 @@
 
 <img title="" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="">
 
-# 데이터 파이프라인
+### Server
+
+<img title="" src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="">
+
+<img title="" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="">
+
+<img title="" src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="">
+
+## 💾 데이터 파이프라인
 
 <a name="dataPipelines"></a>
 
-사진 + 설명
+<img src="/assets/데이터파이프라인.png" alt="데이터파이프라인" />
 
-# 시스템 아키텍쳐
+## 🗂️ 시스템 아키텍쳐
 
 <a name="systemArchitecture"></a>
 
 ![architecture](./assets/arch.png)
 
-## 메인 서버 (좌)
-
-## 분산 클러스터링 서버 (우)
+### 메인 서버(좌) | 분산 클러스터링 서버(우)
 
 - AWS EC2 t2.xlarge 인스턴스
 
 - Ubuntu 20.04
 
-# 기획 및 설계 산출물
+## 기획 및 설계 산출물
 
 <a name="design"></a>
 
-## 요구사항 정의
+### 요구사항 정의
 
 명세
 
-## 화면 설계서
+### 화면 설계서
 
 ![Figma](./assets/Figma.png)
 
-## ER Diagram
+### ER Diagram
 
 ![erd](./assets/erd.png)
 
-# 팀원 소개 및 역할 분담
+## 팀원 소개 및 역할 분담
 
 <a name="members"></a>
 
-| 이름      | **구희영**                                                                             | **권인식**                                                                                   | **김태환**                                                                                     | **이세울**                                                                                    | **김나연**                                                                                   | **황유성**                                                                                     |
-|:-------:|:-----------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|
-| **사진**  | <img title="" src="./assets/hy.png" alt="heeyoung" width="133" data-align="center"> | <img title="" src="./assets/image%20(4).png" alt="insik" width="201" data-align="center"> | <img title="" src="./assets/image%20(3).png" alt="taehwan" width="173" data-align="center"> | <img title="" src="./assets/image%20(6).png" alt="sewool" data-align="center" width="172"> | <img title="" src="./assets/image%20(5).png" alt="nayeon" data-align="center" width="94"> | <img title="" src="./assets/image%20(2).png" alt="yuseong" data-align="center" width="126"> |
-| **포지션** | 팀장<br/>프론트엔드                                                                        | PM<br /><br/>Server<br/>CI/CD<br/>Game/Socket MSA                                         | MSA 총괄 <br />Auth/Member MSA                                                                | Member MSA<br />프론트엔드                                                                      | 데이터 파이프라인 설계<br />하둡 클러스터링 <br/>데이터 수집 및 저장                                               | 자연어처리 <br />워드 클라우드 및 퀴즈 생성 <br />                                                          |
-| **깃허브** | [Github](https://github.com/hi9900)                                                 | [Github](https://github.com/PassionSoftIan)                                               | [Github](https://github.com/kimta2hwan)                                                     | [Github](https://github.com/sl39)                                                          | [Github](https://github.com/nayeonxkim)                                                   | [Github](https://github.com/StarSein)                                                       |
+<table>
+    <tr>
+        <td height="140px" align="center"> <a href="https://github.com/hi9900">
+            <img src="/assets/hy.png" width="140px" /> <br><br> 👑 구희영 </a> <br></td>
+            <td height="140px" align="center"> <a href="https://github.com/PassionSoftIan">
+            <img src="/assets/image%20(4).png" width="140px" /> <br><br> 권인식  </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/kimta2hwan">
+            <img src="/assets/image%20(3).png" width="140px" /> <br><br> 김태환 </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/sl39">
+            <img src="/assets/image%20(6).png" width="140px" /> <br><br> 이세울 </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/nayeonxkim">
+            <img src="/assets/image%20(5).png" width="140px" /> <br><br> 김나연  </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/StarSein">
+            <img src="/assets/image%20(2).png" width="140px" /> <br><br> 황유성  </a> <br></td>
+    </tr>
+    <tr>
+        <td align="center">
+        UI/UX<br/>로그인<br/>랭킹<br/>친구<br/>마이페이지<br/>
+        </td>
+        <td align="center">
+        PM<br/>Server<br/>CI/CD<br/>Game<br/>Socket
+        </td>
+        <td align="center">
+        MSA 총괄<br/>Auth<br/>Member<br/>
+        </td>
+        <td align="center">
+        Member<br />회원가입<br/>대기실<br/>실시간 게임<br/>
+        </td>
+        <td align="center">
+        Data Pipeline 구축<br/>hadoop cluster<br/>데이터 수집<br />데이터 저장
+        </td>
+        <td align="center">
+        자연어처리<br/>워드 클라우드<br/>퀴즈 생성
+        </td>
+    </tr>
+</table>
