@@ -232,6 +232,14 @@
         <a src="/exec/sql/">DB 덤프 데이터 바로가기</a>
         </td>
     </tr>
+    <tr>
+        <td>
+        UCC
+        </td>
+        <td>
+        <a src="https://youtu.be/NUaRz1khf-c" alt="식식프렌즈UCC">UCC 바로가기</a>
+        </td>
+    </tr>
 </table>
 
 ## 👪 팀원 소개
