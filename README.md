@@ -174,7 +174,7 @@
         포팅 매뉴얼 및 시연 시나리오
         </td>
         <td>
-        <a src="/exec/포팅_매뉴얼_및_시연_시나리오.docx">포팅 매뉴얼 및 시연 시나리오 바로가기</a>
+        <a href="/exec/포팅_매뉴얼_및_시연_시나리오.docx">포팅 매뉴얼 및 시연 시나리오 바로가기</a>
         </td>
     </tr>
     <tr>
@@ -182,7 +182,7 @@
         DB 덤프 데이터
         </td>
         <td>
-        <a src="/exec/sql/">DB 덤프 데이터 바로가기</a>
+        <a href="/exec/sql/">DB 덤프 데이터 바로가기</a>
         </td>
     </tr>
     <tr>
@@ -190,7 +190,7 @@
         UCC
         </td>
         <td>
-        <a src="https://youtu.be/NUaRz1khf-c" alt="식식프렌즈UCC">UCC 바로가기</a>
+        <a href="https://youtu.be/NUaRz1khf-c">UCC 바로가기</a>
         </td>
     </tr>
 </table>
