@@ -227,7 +227,7 @@
         UI/UX<br/>로그인<br/>랭킹<br/>친구<br/>마이페이지<br/>
         </td>
         <td align="center">
-        PM<br/>Server<br/>CI/CD<br/>Game<br/>Socket
+        PM<br/>Infra/CI/CD<br/>백엔드<br/>Web Socket<br/>Game Server
         </td>
         <td align="center">
         MSA 총괄<br/>Auth<br/>Member<br/>
