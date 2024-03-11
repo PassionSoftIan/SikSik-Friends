@@ -210,17 +210,17 @@
 <table>
     <tr>
         <td height="140px" align="center"> <a href="https://github.com/hi9900">
-            <img src="/assets/hy.png" width="140px" /> <br><br> 👑 구희영 </a> <br></td>
+            <img src="/assets/hy.png" width="140px" /> <br><br>👑 구희영</a> <br></td>
             <td height="140px" align="center"> <a href="https://github.com/PassionSoftIan">
-            <img src="/assets/image%20(4).png" width="140px" /> <br><br> 권인식  </a> <br></td>
+            <img src="/assets/image%20(4).png" width="140px" /> <br><br>권인식</a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/kimta2hwan">
-            <img src="/assets/image%20(3).png" width="140px" /> <br><br> 김태환 </a> <br></td>
+            <img src="/assets/image%20(3).png" width="140px" /> <br><br>김태환</a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/sl39">
-            <img src="/assets/image%20(6).png" width="140px" /> <br><br> 이세울 </a> <br></td>
+            <img src="/assets/image%20(6).png" width="140px" /> <br><br>이세울</a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/nayeonxkim">
-            <img src="/assets/image%20(5).png" width="140px" /> <br><br> 김나연  </a> <br></td>
+            <img src="/assets/image%20(5).png" width="140px" /> <br><br>김나연</a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/StarSein">
-            <img src="/assets/image%20(2).png" width="140px" /> <br><br> 황유성  </a> <br></td>
+            <img src="/assets/image%20(2).png" width="140px" /> <br><br>황유성</a> <br></td>
     </tr>
     <tr>
         <td align="center">
